@@ -25,4 +25,4 @@ This package includes the original JS files from the library.
    
    ...
    
-       <script src="{%static "js_lib_alpinejs/alpinejs.js" %}"></script>
+       <script src="{% static "js_lib_alpinejs/alpine.js" %}"></script>
